@@ -686,7 +686,7 @@ function Library.new(config)
 
 		DropdownFrame.Name = "DropdownFrame"
 		DropdownFrame.Parent = ScreenGui
-		DropdownFrame.BackgroundColor3 = Color3.fromRGB(17, 17, 17)
+		DropdownFrame.BackgroundColor3 = Color3.fromRGB(656, 17, 17)
 		DropdownFrame.BackgroundTransparency = 0.500
 		DropdownFrame.BorderColor3 = Color3.fromRGB(0, 0, 0)
 		DropdownFrame.BorderSizePixel = 0
